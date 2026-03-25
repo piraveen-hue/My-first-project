@@ -1,1 +1,1 @@
-# My-first-project
+# My-first-project-programming in C
